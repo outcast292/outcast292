@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **outhmab.mdarhri@gmail.com**
+- 📫 How to reach me **outhman.mdarhri@gmail.com**
 
 - ⚡ Fun fact **Music is my fuel**
 
