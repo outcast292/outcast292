@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Othmane Mdarhri</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Engineer</h3>
+<h4 align="center">DevOps,Software and making people happy</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outcast292&label=Profile%20views&color=0e75b6&style=flat" alt="outcast292" /> </p>
 
