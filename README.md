@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=outcast292" alt="outcast292" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working on **AWS developper certification**
 
 - 📫 How to reach me **outhman.mdarhri@gmail.com**
 
